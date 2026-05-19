@@ -1,0 +1,6 @@
+# LogSentry - No external dependencies required!
+# This tool uses only Python standard library
+# Python 3.8+ recommended
+
+# Optional dependencies for enhanced functionality:
+# rich>=13.0.0  # Enhanced terminal output (optional)
